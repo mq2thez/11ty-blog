@@ -1,3 +1,4 @@
+
 ---
 #layout: layouts/base.njk
 templateClass: tmpl-post
@@ -11,6 +12,12 @@ templateClass: tmpl-post
    <aside>
      {{ wPerMinute | round }} min read.
    </aside>
+
+   <hr>
+
+   <p>
+    <b>Black Trans Lives Matter</b>. Before you get started here, consider setting up a monthly repeating donation to a non-profit such as <a href="https://www.lgbtqfund.org/" target="_blank" rel="noopener">LGBTQ Freedom Fund</a>.
+   </p>
 {% endblock %}
 
 {% set shareUrl = metadata.url + page.url %}
@@ -18,7 +25,6 @@ templateClass: tmpl-post
 {% block article %}
 {{ content | safe }}
 
-<h1>🙏🙏🙏</h1>
 <p>
   Since you've made it this far, <a href="{{ shareUrl | safe }}" on-click="share">sharing</a> this article on your favorite social media network 
   would be highly appreciated 💖! For feedback, please 
