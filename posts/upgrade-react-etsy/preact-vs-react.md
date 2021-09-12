@@ -3,7 +3,6 @@ title: Updating React at Etsy
 description: Deciding between upgrading from React v15.4 to React v16 or Preact
 date: 2020-07-18
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 tags:
   - preact-migration
 ---
