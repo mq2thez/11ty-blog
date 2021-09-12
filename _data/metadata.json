@@ -1,7 +1,7 @@
 {
   "title": "Ben's Writing",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
+  "url": "https://sangster.dev",
+  "domain": "sangster.dev",
   "description": "Generally thoughts about JavaScript, React, and Developer Tooling",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
@@ -10,11 +10,11 @@
     "subtitle": "Infrequently Updated",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://sangster.dev"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://sangster.dev/feed/feed.json"
   },
   "author": {
     "name": "Ben Sangster",
