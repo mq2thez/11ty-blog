@@ -21,7 +21,7 @@ Until you hit the staff engineer level as an IC, a supportive manager should be 
 
 Once you hit the staff level and above, a whole lot of your growth is going to be unique to you. Staff is the point in most ICs' careers where they are no longer waiting for work to come to them -- even getting to this point often requires demonstrating a significant drive to identify and resolve completely new tracks of work with little oversight. This is also, in many companies, the point at which your manager becomes more of a partner and a peer, rather than an overseer. If you don't already, you should also be seeking to build relationships with director-level leaders in order to find broader challenges to feed your growth. A lot of the rest of the suggestions here will still apply, but they will _also_ apply for how you work with even-more-senior leaders than your manager.
 
-No matter what your level is: if you aren't getting the opportunity to grow, something has to change. Don't wait for it, because learning how to drive the change you need is an growth oppotunity of its own.
+No matter what your level is: if you aren't getting the opportunity to grow, something has to change. Don't wait for it, because learning how to drive the change you need is an growth opportunity of its own.
 
 ## Progress via Repetition
 
