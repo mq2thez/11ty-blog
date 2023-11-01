@@ -23,7 +23,7 @@ Once you hit the staff level and above, a whole lot of your growth is going to b
 
 No matter what your level is: if you aren't getting the opportunity to grow, something has to change. Don't wait for it, because learning how to drive the change you need is an growth oppotunity of its own.
 
-## Document Specific Goals
+## Progress via Repetition
 
 To get the most out of your relationship with a manager, you'll want to have a specific goal in mind. If you know what you want, a competent manager can help you get there (or point you to other people who can help get you there). Career-oriented goals are **great**. Getting promoted at tech companies is often challenging, because even seemingly-detail-oriented critera end up being not-very-specific in practice. Engineering ladders are great guidelines, but you'll need to have a plan in order to explain why you have earned a promotion.
 
