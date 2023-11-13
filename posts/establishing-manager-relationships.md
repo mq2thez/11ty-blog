@@ -11,7 +11,7 @@ _Note: This was originally a Twitter thread, but I’ve converted it into a blog
 
 Hello! I’ve been working as a professional programmer for more than a decade, worked at 5 companies, and had 22 managers (including 14 in 4 years at Twitter). As a result, I’ve had a lot of experience establishing new relationships with a manager.
 
-In any good relationship, communication is key. Your manager isn't a mind reader, and neither are you. You need to talk to your manager about things which are bothering you, and your manager needs to talk to you about how things are going from their end. Managers have a tightrope to walk: they balance the needs of the individual people with the needs of the team. Bad managers value the team above all else. Good managers help the people but also push them for the sake of the team. Great managers are able to grow their people to invest in the team.
+In any good relationship, communication is key. Your manager isn't a mind reader, and neither are you. You need to talk to your manager about things which are bothering you, and your manager needs to talk to you about how things are going from their end. As you start out a relationship with a new manager (especially as you get more senior on the career ladder), ask them about their own values and goals. Managers have a tightrope to walk: they balance the needs of the individual people with the needs of the team. Bad managers value the team above all else. Good managers help the people but also push them for the sake of the team. Great managers are able to grow their people to invest in the team. 
 
 ## Prioritize Growth
 
@@ -46,6 +46,8 @@ Going for a promotion is a specific goal, but your goals can also be more diffus
 Note that for work of this type, I typically also try to ask a fourth question: "How do you feel about how I am balancing team work with this other project?".
 
 ## Conclusion
+
+Managers can help you accomplish goals, but they can't fill the void if you don't _have_ goals. The best way to have a fruitful relationship with your manager is to have real goals to reach for. Prioritizing growth is extremely important, and the three repeated questions shown above can be a great tool for evaluating that progress and ensuring that everyone is on the same page for how it's going. This allows you to avoid surprises. There will inevitably be _more_ than this as part of your 1:1s, but having a pattern allows everyone to adjust their expectations.
 
 The most important thing you can establish in any relationship is trust. Your manager needs to be able to trust that you're telling them what you need, and you need to trust that your manager will tell you what they need. Trust goes a long way to making things work.
 
