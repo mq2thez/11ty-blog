@@ -13,13 +13,13 @@ I call this style of project planning "primary/secondary". The "primary" person 
 
 Crucially, the secondary is _not_ responsible for delivering the project. The secondary is responsible for helping the primary plan and execute the project. Sometimes, but not always, the secondary engineer will contribute code. There may be other engineers who work on the actual implementation once the planning is complete, but we're focused here on how the project is planning and executed, rather than the specific implementation.
 
-## Role of the Primary
+## The Primary
 
 The goal for the primary is to _learn_. We want the primary to get experience in a psychologically safe way. They need to ask questions, push the secondary for more knowledge, and above all else, seek to gain an understanding of _why_ they're doing things in a certain way. The primary should be viewing everything from the lens of needing to be able to do this work on their own in the future. For junior engineers on their first big feature, this means getting a deeper understanding of how to break problems down into tickets, plan for delivery dates, and define success. For more experienced engineers, this means feeling confident that they can plan for multiple streams of work to be handled by other engineers.
 
 When working on a project like this, a primary can be said to have succeeded if they come out of it with a good understanding of how to plan and execute on a similar sized future feature without any help. In this light, it doesn't specifically matter whether there were problems with launching the feature in question. What matters is whether the primary learned from the problems they encountered and feels confident that they would be able to anticipate or avoid such problems in the future. Because the primary is responsible for delivering the feature, any team standups, updates, or questions should be handled by the primary, _not_ the secondary. The system won't work if the primary has to look at the secondary for answers every time something comes up. Every aspect of delivering a feature (including communication) is important to learn as part of a primary/secondary project.
 
-## Role of the Secondary
+## The Secondary
 
 The goal for the secondary is to _enable_ the primary. The secondary's focus should be on providing a paved path for the primary. For this reason, it is very important that the secondary be someone with lots of experience running projects -- someone of a similar experience level won't be sufficiently able to provide a safe and controlled environment for the primary.
 
@@ -33,7 +33,7 @@ One particular note is that it can be difficult to know when to intervene if a p
 
 ## Examples
 
-### Junior's First Big Feature
+### First Real Feature
 
 Junior engineers often spend the first year (or two) of their career working on well-defined tasks which are assigned to them by others on the team. These could be small project features (add a button, fix a style, record new data) or bug fixes. In these scenarios, someone else has done all of the planning necessary, so the junior's real task is to learn enough about this (hopefully) small issue and learn how to write code to handle it. Once our junior engineer has done this enough times, they will be ready to start learning the next steps:
 
@@ -45,7 +45,7 @@ Junior engineers often spend the first year (or two) of their career working on 
 
 In a primary/secondary environment, the junior engineer would be the primary on our feature, and a senior+ engineer would be the secondary. As the secondary, I'd be spending a lot of time pairing with the primary in order to explain how to break down the feature, how to plan for incremental delivery, estimating difficulty, etc. These skills are the work of an entire career to develop, but getting to pair directly with someone who has a _lot_ of experience with them can be a great way to jumpstart things for a junior. My experience has been that the explicit pairing and encouragement will help people feel safe to ask questions that they would not have otherwise felt safe to ask in a larger group (or even in a one-on-one). After team meetings where the primary is delivering updates, we might spend time talking about the way that the update was given and how to tailor it for the audience (IE, how to present information to the team). I will often be the primary code reviewer for the project, which means that my focus will be split between the technical implementation _and also_ the degree to which the reviews stay close to the original plan. When snags are hit, I emphasize stopping to re-examine the plan and talk through whether we could have anticipated those problems earlier. If I make a mistake or miss something during planning, I make sure to explain it and what I could have done differently (or why I couldn't have spotted the issue until we got into the code). I like to show junior engineers that even with lots of experience, it's possible to miss details during planning. The goal isn't perfection, but flexibility.
 
-### Junior's First Big Feature With Others
+### First Feature With Others
 
 At some point, our junior engineer has delivered a few features, hopefully with the help of a good secondary to smooth things out. For this project, our junior engineer is for the first time leading a project that other more junior engineers are working on. In this case, the primary's responsibilities become a lot more complicated, they're in charge of planning and organizing parallel work streams. A lot of the skills that juniors learn at this phase are essentially more-complex versions of those from earlier. Your primary will need to think about:
 
@@ -83,7 +83,7 @@ As a staff engineer, one of my explicit responsibilities is to develop senior en
 
 At this point in their career, the senior might be learning how to balance their own coding work with time spent as a secondary for the various features for their project. They will generally realize that in order to run the project well, they will need to hand off features that they might prefer to do themselves and instead be prepared to guide others through the implementation process. As the secondary for this senior engineer, you are (to some extent) guiding the senior engineer through the process of learning to be a good leader and secondary on all of the smaller parts of the project.
 
-## Deciding Whether To Use Primary/Secondary
+## When To Use Primary/Secondary
 
 Primary/Secondary works best for medium or small projects. It shines in situations where a single person can be reasonably plan and lead the entire project. It is _not_ a good choice for projects which might have features which are themselves medium-sized projects. That is, if a project is so large that its _features_ require their own independent research, planning, and delivery dates, then those smaller features would be good candidates, but the overall project might not. The reason for this is that at that scale, it's not feasible or desirable to have two people trying to manage all of the planning and organizing work -- it is the work for an entire team.
 
