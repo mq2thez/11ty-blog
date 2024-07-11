@@ -9,6 +9,8 @@ eleventyNavigation:
 
 Hi, I'm Ben Sangster.
 
+I can also be found on Mastodon at [@sangster@macaw.social](https://macaw.social/@sangster).
+
 I currently work at [Etsy](https://etsy.com) on the Web Platform team, which means that I spend a lot of time thinking about how Etsy's Javascript tooling infrastructure and how to make our developers more effective.
 
 I have previously worked for [Classy](https://www.classy.org/), [Twitter](https://twitter.com), and for some smaller companies.
